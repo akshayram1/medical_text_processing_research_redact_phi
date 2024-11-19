@@ -1,0 +1,34 @@
+2024-11-18 10:31:34,334 - INFO - Task: summarize - Input received at 2024-11-18 10:31:34.334751
+2024-11-18 10:31:36,371 - ERROR - Task: summarize - Error: Error getting completion: [WinError 10061] No connection could be made because the target machine actively refused it
+2024-11-18 10:46:26,275 - INFO - Task: summarize - Input received at 2024-11-18 10:46:26.275548
+2024-11-18 10:46:26,293 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 404 Not Found"
+2024-11-18 10:46:26,295 - ERROR - Task: summarize - Error: Error getting completion: model "llama3.2:3b" not found, try pulling it first
+2024-11-18 10:46:28,433 - INFO - Task: summarize - Input received at 2024-11-18 10:46:28.433639
+2024-11-18 10:46:28,437 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 404 Not Found"
+2024-11-18 10:46:28,439 - ERROR - Task: summarize - Error: Error getting completion: model "llama3.2:3b" not found, try pulling it first
+2024-11-18 10:46:29,511 - INFO - Task: summarize - Input received at 2024-11-18 10:46:29.511510
+2024-11-18 10:46:29,514 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 404 Not Found"
+2024-11-18 10:46:29,515 - ERROR - Task: summarize - Error: Error getting completion: model "llama3.2:3b" not found, try pulling it first
+2024-11-18 10:59:02,306 - INFO - Task: summarize - Input received at 2024-11-18 10:59:02.306908
+2024-11-18 10:59:02,311 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 404 Not Found"
+2024-11-18 10:59:02,313 - ERROR - Task: summarize - Error: Error getting completion: model "llama3.2:3b" not found, try pulling it first
+2024-11-18 11:02:40,938 - INFO - Task: summarize - Input received at 2024-11-18 11:02:40.938635
+2024-11-18 11:02:44,754 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-18 11:02:46,925 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-18 11:02:46,926 - INFO - Task: summarize - Output generated at 2024-11-18 11:02:46.926361
+2024-11-18 11:02:46,926 - INFO - Validation result: True
+2024-11-18 11:11:07,882 - INFO - Task: write_article - Input received at 2024-11-18 11:11:07.882685
+2024-11-18 11:11:23,513 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-18 11:11:27,967 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-18 11:11:27,968 - INFO - Task: write_article - Output generated at 2024-11-18 11:11:27.968110
+2024-11-18 11:11:27,968 - INFO - Validation result: True
+2024-11-18 11:14:52,704 - INFO - Task: sanitize - Input received at 2024-11-18 11:14:52.704658
+2024-11-18 11:14:59,696 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-18 11:15:03,999 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-18 11:15:04,000 - INFO - Task: sanitize - Output generated at 2024-11-18 11:15:04.000033
+2024-11-18 11:15:04,000 - INFO - Validation result: True
+2024-11-18 11:33:52,563 - INFO - Task: summarize - Input received at 2024-11-18 11:33:52.563911
+2024-11-18 11:34:06,492 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-18 11:34:11,939 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-11-18 11:34:11,940 - INFO - Task: summarize - Output generated at 2024-11-18 11:34:11.940210
+2024-11-18 11:34:11,941 - INFO - Validation result: True
