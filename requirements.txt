@@ -1,0 +1,28 @@
+# Core dependencies
+streamlit
+ollama
+python-dotenv
+
+# Async support
+aiohttp
+asyncio
+
+# Utility packages
+numpy
+pandas
+
+# Logging and monitoring
+logging
+
+# Type checking
+typing-extensions
+
+# Development dependencies
+black
+flake8
+pytest
+pytest-asyncio
+
+# Optional but recommended for development
+ipython
+jupyter
